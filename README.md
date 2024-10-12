@@ -1,7 +1,8 @@
 # Leaderless-KV-Store-using-Tempo
 A distributed, fault-tolerant, persistent and sharded Key-Value store using leaderless state machine replication and consensus algorithm "Tempo""
 
-## THIS PROJECT WAS PUSHED INTO PRIVATE REPO CREATED BY PROF. SHUAI MU (http://mpaxos.com/) AT STONY BROOK UNIVERSITY. WITH REPO BEING PRIVATE, IT CANNOT BE FORKED. PLEASE EMAIL ME AND THE PROFESSOR FOR ACCESS (STRICTLY FOR VIEWING PURPOSES). ATTACHED ARE THE SCREENSHOTS OF THE ORIGINAL PRIVATE REPO FOR REFERENCE. THANK YOU.
+## This Project was pushed into private repository created by Prof. Shuai Mu (http://mpaxos.com/) at Stony Brook Univeristy. With the repo being private, it cannot be forked or viewed. Please email me and the Professor for Access (Strictly for viewing purposes). Attached are the screenshots of the original private repo for reference. Thank you.
+
 
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/3962f0c9-0dd7-4b06-9dd0-8350c1c8f242">
 
